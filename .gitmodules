@@ -1,0 +1,3 @@
+[submodule "confgigs"]
+	path = configs
+	url = https://github.com/Arendrast/GameDisignerRepository
